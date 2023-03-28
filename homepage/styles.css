@@ -1,0 +1,44 @@
+<style>
+h1 {
+  text-align: center;
+}
+#dumba {
+        width: 700px;
+    }
+#animal {
+        width: 700px;
+    }
+#bus {
+        width: 700px;
+    }
+#kagbeni {
+        width: 700px;
+    }
+#water {
+        width: 700px;
+    }
+#flag {
+        width: 300px;
+}
+#map {
+    width: 500px;
+}
+#globe {
+    width: 500px;
+}
+.container {
+        width: 700px;
+        margin: auto;
+}
+#text {
+    text-align: center;
+}
+#info {
+    width: 500px;
+    text-align: center;
+}
+
+body {
+}
+
+</style>
